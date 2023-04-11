@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center" display="grid">
-<img width="600px" src="Estiven Moica.mp4"/>
+<img width="600px" src="Estiven Moica.gif"/>
 <h3>
  From Colombia :colombia: to the :earth_americas:
 </h3>
